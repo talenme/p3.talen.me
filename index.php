@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 	<title>Math Quiz</title>
 	
 	<link rel="stylesheet" href="css/mathquiz.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="js/pietimer.css">
 	
 </head>
 
@@ -33,9 +34,6 @@
             <div id="problems"></div>
             <br>
             <div id="answers">
-                <!--<form name="answerform">
-                    <input type="text" id="quiztextfield" onkeypress="validate(this.form)">
-                </form>-->
             </div>
         </div>
         <br>
@@ -57,8 +55,6 @@
     <script type="text/javascript" src="js/jquery.pietimer.js"></script>
 
     <script type="text/javascript" src="js/mathquiz.js"></script>
-    
-    <link rel="stylesheet" type="text/css" href="js/pietimer.css"></link>
     
 </body>
 
