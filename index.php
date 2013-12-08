@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-	<title>Math Quiz</title>
+	<title>Lightning Math</title>
 	
 	<link rel="stylesheet" href="css/mathquiz.css" type="text/css">
     <link rel="stylesheet" type="text/css" href="js/pietimer.css">
@@ -11,7 +11,7 @@
 
 
 <body>
-    <div id='header'><img src="images/Lightning_Math_sm.jpg"></div>
+    <div id='header'><img src="images/Lightning_Math_sm.jpg" alt="Lightning Math"></div>
     <br>
     <div id='wrapper'>
         <div id='instructions'>How many math problems can you solve in one minute? <button id="startButton">Start!</button></div>
